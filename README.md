@@ -1,6 +1,18 @@
-# Redis 抽奖机
-## 命令
-* serve ```启动服务```
-* fillredis ```填充数据到redis```
+# Redis luckdraw
+## command
+* serve ```start server```
+* fillredis ```fill in false data to redis```
 
+## packages
+### cmd
+```
+program control
+```
+### models
+```
+Initialize redis.
 
+create user with save local.
+
+luckdraw.
+```
